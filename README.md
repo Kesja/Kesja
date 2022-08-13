@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joanna Bach</h1>
-<h3 align="center">I'm an enthusiastic and fast-learning programming student.</h3>
+<h3 align="center">I'm an enthusiastic and fast-learning Junior Front-End Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
